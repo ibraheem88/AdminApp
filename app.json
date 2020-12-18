@@ -1,0 +1,12 @@
+{
+  "name": "AdminApp",
+  "displayName": "AdminApp",
+  "expo": {
+    "name": "AdminApp",
+    "slug": "AdminApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
